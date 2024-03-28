@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData_Practice", "OData_Practice\OData_Practice.csproj", "{8AB781ED-FD4B-4DCD-8F60-BEC917E351E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingODataClient", "UsingODataClient\UsingODataClient.csproj", "{A30BE6CF-6172-436C-9DEC-C2B41A360202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB781ED-FD4B-4DCD-8F60-BEC917E351E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB781ED-FD4B-4DCD-8F60-BEC917E351E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB781ED-FD4B-4DCD-8F60-BEC917E351E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB781ED-FD4B-4DCD-8F60-BEC917E351E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A30BE6CF-6172-436C-9DEC-C2B41A360202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30BE6CF-6172-436C-9DEC-C2B41A360202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30BE6CF-6172-436C-9DEC-C2B41A360202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30BE6CF-6172-436C-9DEC-C2B41A360202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E9F7CD-D500-4180-AAB1-00B2D37D2FEC}
+	EndGlobalSection
+EndGlobal

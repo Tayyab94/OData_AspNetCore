@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB+7m3oIou0y1iVFp++LdXl66/diKYDIw+xV5P8CEo653NKDXmIGs5xYPyT9AZ1s2KZe0piryF6Ex0RxGXEGzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayya\\source\\Repos\\OData_Practice\\UsingODataClient\\UsingODataClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.2.5\\microsoft.aspnetcore.odata.8.2.5.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.data.edm\\5.8.5\\microsoft.data.edm.5.8.5.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.data.odata\\5.8.5\\microsoft.data.odata.5.8.5.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.odata.core\\7.20.0\\microsoft.odata.core.7.20.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.odata.edm\\7.20.0\\microsoft.odata.edm.7.20.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.9\\microsoft.odata.modelbuilder.1.0.9.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\microsoft.spatial\\7.20.0\\microsoft.spatial.7.20.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\simple.odata.client\\6.0.1\\simple.odata.client.6.0.1.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\system.spatial\\5.8.5\\system.spatial.5.8.5.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\tayya\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

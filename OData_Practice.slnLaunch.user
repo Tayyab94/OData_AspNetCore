@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "OData_Practice\\OData_Practice.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "UsingODataClient\\UsingODataClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
